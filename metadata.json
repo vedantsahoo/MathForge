@@ -1,0 +1,6 @@
+{
+  "name": "MathForge — Advanced Mathematical Problem Solver",
+  "description": "An interactive mathematical calculation and problem-solving engine with step-by-step reasoning, calculus, algebra, matrices, and graphing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
